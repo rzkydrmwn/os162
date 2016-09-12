@@ -1,0 +1,6 @@
+1. Membuat Google account.
+2. Membuat Github account.
+3. Membuat tempat penyimpanan dalam gihub.
+4. Login ke google account dan mengisi form yang telah disediakan.
+5. Tunggu 24 jam kemudian cek status pengumpulan.
+6. Login ke badak.cs.ui.ac.id lewat ssh menggunakan account siak.
