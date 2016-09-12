@@ -1,0 +1,2 @@
+Melakukan serta mempelajari penggunaan dari clone repository, pull, push,
+dan lain-lain pada github dan juga lokal serta hubungan diantaranya keduanya.
