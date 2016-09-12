@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 m.rizky41 StafCS 4096 Sep 12 21:09 .
+drwx--x--x  3 m.rizky41 StafCS 4096 Sep 12 20:30 ..
+drwxr-xr-x  8 m.rizky41 StafCS 4096 Sep 12 21:07 .git
+-rw-r--r--  1 m.rizky41 StafCS    0 Sep 12 21:10 lab01.txt
+-rw-r--r--  1 m.rizky41 StafCS    7 Sep 12 20:30 README.md
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:52 SandBox
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 21:04 week00
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:37 week01
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:37 week02
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:37 week03
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:37 week04
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:37 week05
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week06
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week07
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week08
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week09
+drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week10
+/home/fasilkom/mahasiswa/m/m.rizky41/os162/week01
