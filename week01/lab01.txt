@@ -17,3 +17,4 @@ drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week08
 drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week09
 drwxr-xr-x  2 m.rizky41 StafCS 4096 Sep 12 20:38 week10
 /home/fasilkom/mahasiswa/m/m.rizky41/os162/week01
+Today is 12 Sep 2016 at 21:30:50
