@@ -9,15 +9,10 @@
 # dan menghapus line yang mengandung [DISK].
  
 page="$(w3m -dump -cols 120 http://os162.vlsm.org/2016/11/ranking-os162.html)" 
-start="================================================== START BERKAS" 
-stop="================================================== STOP BERKAS" 
-
-echo "$start" > ranking.txt
 echo "$page" > tmp 
 awk '/NNNN/{f=0} f; /ZCZC/{f=1}' tmp > tmp1
 grep -v DISK tmp1 > tmp2 
 sed 's/\[//g;s/\]//g' tmp2 >> ranking.txt
-echo "$stop" >> ranking.txt
 rm tmp
 rm tmp1
 rm tmp2

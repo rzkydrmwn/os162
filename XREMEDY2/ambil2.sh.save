@@ -1,0 +1,8 @@
+#!/bin/bash
+
+awk '{ $2 }' ranking.txt > tmp
+awk '{ print $3 }' ranking.txt > tmp2
+
+echo ${tmp[3]}
+
+
