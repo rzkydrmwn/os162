@@ -1,3 +1,4 @@
+#!/bin/bash
 # (c) 2016 M. Rizky Darmawan -- This is free software
 # Feel free to copy and/or modify and/or distribute it,
 # provided this notice, and the copyright notice, are preserved.
@@ -16,6 +17,3 @@ sed 's/\[//g;s/\]//g' tmp2 >> ranking.txt
 rm tmp
 rm tmp1
 rm tmp2
-
-
-
