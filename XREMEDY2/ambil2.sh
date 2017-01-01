@@ -8,12 +8,12 @@
 # name dapat di dump, bila gagal akan dibuat RK-XX-GAGAL.txt
 # bila berhasil akan dibuat RK-XX.txt
 
-tmp="$(grep -o 'RK-[0-9][0-9]' ranking.txt)" > asd.txt
+tmp="$(grep -o 'RK-[0-9][0-9]' ranking.txt)"
 name=()
 for val in $tmp; do
 	name+=("$val")
 done
-tmp2="$(grep -o 'http[^ ]*' ranking.txt)" >asd.txt
+tmp2="$(grep -o 'http[^ ]*' ranking.txt)"
 url=()
 for val2 in $tmp2; do 
 	url+=("$val2")
