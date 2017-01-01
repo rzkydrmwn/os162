@@ -4,9 +4,9 @@
 # provided this notice, and the copyright notice, are preserved.
 # REV01 Sun  1 11:55:22 WIB 2017
 # START Sat 31 17:22:10 WIB 2016
-# Script menyimpan array name & url, mlelakukan pengecekan apakah
-# name dapat di dump, bila gagal akan dibuat RK-XX-GAGAL.txt
-# bila berhasil akan dibuat RK-XX.txt
+# Script menyimpan array name & url, melakukan pengecekan apakah
+# name dapat di dump, bila gagal akan dibuat file kosong RK-XX-GAGAL.txt
+# bila berhasil, hasil dump akan diisikan ke dalam RK-XX.txt
 
 tmp="$(grep -o 'RK-[0-9][0-9]' ranking.txt)"
 name=()
